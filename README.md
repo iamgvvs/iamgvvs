@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgvvs&label=Profile%20views&color=0e75b6&style=flat" alt="iamgvvs" /> </p>
 
-- 🔭 I’m currently working on **Object detection during occlusion**
 
 - 🌱 I’m currently learning **AI (LLMs,Generative AI)**
 
